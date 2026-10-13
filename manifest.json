@@ -1,8 +1,8 @@
 {
   "applicationId": "com.speaklocal.kanban",
-  "versionCode": 8,
-  "versionName": "0.1.7-dev",
-  "size": 9618715,
-  "sha256": "fd8fc9de2c4cd89105a5378dff7478f1e1ee0b7916b8d73f3efc155d9feab3d8",
-  "downloadUrl": "https://github.com/chrizcjohn/speaklocal-board-releases/releases/download/dev-build-8/SpeakLocal-Board-dev-build-8-debug.apk"
+  "versionCode": 9,
+  "versionName": "0.1.8-dev",
+  "size": 9495129,
+  "sha256": "4763b37924eadc3e837a93331b80982cbb4872a7aafe31ca8633516435ab3d22",
+  "downloadUrl": "https://github.com/chrizcjohn/speaklocal-board-releases/releases/download/dev-build-9/SpeakLocal-Board-dev-build-9-debug.apk"
 }
